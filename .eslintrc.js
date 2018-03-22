@@ -8,6 +8,7 @@ module.exports = {
       "error",
       2
     ],
+    "no-console": "off",
     "linebreak-style": [
       "error",
       "unix"
